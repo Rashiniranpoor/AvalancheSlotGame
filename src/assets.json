@@ -1,0 +1,46 @@
+[
+    {
+        "alias": "background",
+        "src": "/assets/background.png"
+    },
+    {
+        "alias": "reelFrame",
+        "src": "/assets/reelFrame.png"
+    },
+    {
+        "alias": "reel",
+        "src": "/assets/reel.png"
+    },
+    {
+        "alias": "reel-new",
+        "src": "/assets/reel-new.png"
+    },
+    {
+        "alias": "sym-frame",
+        "src": "/assets/sym-frame.png"
+    },
+    {
+        "alias": "sym-greencube",
+        "src": "/assets/sym-greencube.png"
+    },
+    {
+        "alias": "sym-redcube",
+        "src": "/assets/sym-redcube.png"
+    },
+    {
+        "alias": "sym-frame",
+        "src": "/assets/sym-frame.png"
+    },
+    {
+        "alias": "sym-kaktus",
+        "src": "/assets/sym-kaktus.png"
+    },
+    {
+        "alias": "sym-refresh",
+        "src": "/assets/sym-refresh.png"
+    },
+    {
+        "alias": "sym-tree",
+        "src": "/assets/sym-tree.png"
+    } 
+]
